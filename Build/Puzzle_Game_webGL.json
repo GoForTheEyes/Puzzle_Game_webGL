@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Puzzle_Game_webGL.data.unityweb",
+"asmCodeUrl": "Puzzle_Game_webGL.asm.code.unityweb",
+"asmMemoryUrl": "Puzzle_Game_webGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Puzzle_Game_webGL.asm.framework.unityweb",
+"backgroundUrl": "Puzzle_Game_webGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
